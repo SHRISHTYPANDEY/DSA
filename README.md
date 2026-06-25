@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0014-longest-common-prefix) |
 | [0410-split-array-largest-sum](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SHRISHTYPANDEY/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0014-longest-common-prefix) |
 | [1021-remove-outermost-parentheses](https://github.com/SHRISHTYPANDEY/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/SHRISHTYPANDEY/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
@@ -41,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/SHRISHTYPANDEY/DSA/tree/master/1903-largest-odd-number-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
