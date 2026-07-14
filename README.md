@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0014-longest-common-prefix) |
 | [0410-split-array-largest-sum](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0013-roman-to-integer) |
 | [0138-copy-list-with-random-pointer](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0138-copy-list-with-random-pointer) |
