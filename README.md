@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SHRISHTYPANDEY/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1260-shift-2d-grid](https://github.com/SHRISHTYPANDEY/DSA/tree/master/1260-shift-2d-grid) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SHRISHTYPANDEY/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Binary Search
 |  |
@@ -174,4 +175,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0148-sort-list) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/SHRISHTYPANDEY/DSA/tree/master/1260-shift-2d-grid) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/SHRISHTYPANDEY/DSA/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
