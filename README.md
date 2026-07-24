@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SHRISHTYPANDEY/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/SHRISHTYPANDEY/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SHRISHTYPANDEY/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/SHRISHTYPANDEY/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0013-roman-to-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/SHRISHTYPANDEY/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SHRISHTYPANDEY/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/SHRISHTYPANDEY/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Trie
 |  |
 | ------- |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/SHRISHTYPANDEY/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/SHRISHTYPANDEY/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Segment Tree
 |  |
 | ------- |
@@ -204,4 +207,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SHRISHTYPANDEY/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/SHRISHTYPANDEY/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->
