@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SHRISHTYPANDEY/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1260-shift-2d-grid](https://github.com/SHRISHTYPANDEY/DSA/tree/master/1260-shift-2d-grid) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SHRISHTYPANDEY/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0013-roman-to-integer) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/SHRISHTYPANDEY/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SHRISHTYPANDEY/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/SHRISHTYPANDEY/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/SHRISHTYPANDEY/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
 |  |
