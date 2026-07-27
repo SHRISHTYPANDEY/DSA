@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0050-powx-n) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/SHRISHTYPANDEY/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/SHRISHTYPANDEY/DSA/tree/master/1922-count-good-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SHRISHTYPANDEY/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/SHRISHTYPANDEY/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/SHRISHTYPANDEY/DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0234-palindrome-linked-list) |
+| [1922-count-good-numbers](https://github.com/SHRISHTYPANDEY/DSA/tree/master/1922-count-good-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
