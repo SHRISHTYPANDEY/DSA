@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SHRISHTYPANDEY/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1260-shift-2d-grid](https://github.com/SHRISHTYPANDEY/DSA/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SHRISHTYPANDEY/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0877-stone-game) |
 ## Greedy
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0877-stone-game) |
 | [1903-largest-odd-number-in-string](https://github.com/SHRISHTYPANDEY/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/SHRISHTYPANDEY/DSA/tree/master/1922-count-good-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SHRISHTYPANDEY/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -263,4 +266,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
