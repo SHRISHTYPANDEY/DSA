@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0835-image-overlap](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SHRISHTYPANDEY/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1140-stone-game-ii](https://github.com/SHRISHTYPANDEY/DSA/tree/master/1140-stone-game-ii) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/SHRISHTYPANDEY/DSA/tree/master/1260-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SHRISHTYPANDEY/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
