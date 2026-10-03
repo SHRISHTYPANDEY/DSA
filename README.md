@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0115-distinct-subsequences) |
 | [0205-isomorphic-strings](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0242-valid-anagram) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/SHRISHTYPANDEY/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/SHRISHTYPANDEY/DSA/tree/master/1096-brace-expansion-ii) |
@@ -492,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SHRISHTYPANDEY/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SHRISHTYPANDEY/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SHRISHTYPANDEY/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
