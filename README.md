@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0044-wildcard-matching) |
 | [0410-split-array-largest-sum](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0115-distinct-subsequences) |
 | [0205-isomorphic-strings](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0242-valid-anagram) |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/SHRISHTYPANDEY/DSA/tree/master/0206-reverse-linked-list) |
